@@ -14,6 +14,8 @@
 </head>
 
 <body>
+    
+    
     <!-- toplogo это самый верхний блок сайта, где находится логотип и кнопка с авторизацией -->
     <div class="toplogo">
         <a class="active" href="index.php">
