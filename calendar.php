@@ -1,21 +1,16 @@
 <?php
 
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <link rel="stylesheet" href="css/main.css">
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Портал | Мероприятия</title>
-</head>
-
+    </head>
 <body>
-    
-    
     <!-- toplogo это самый верхний блок сайта, где находится логотип и кнопка с авторизацией -->
     <div class="toplogo">
         <a class="active" href="index.php">
@@ -32,5 +27,4 @@
         <a href="calendar.php">Календарь мероприятий</a>
     </div>
 </body>
-
 </html>
